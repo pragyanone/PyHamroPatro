@@ -1,7 +1,7 @@
 # PyHamroPatro
 A [tkinter](https://docs.python.org/3/library/tkinter.html) GUI for [Hamro Patro calendar widget](https://www.hamropatro.com/widgets).
 
-The python code as developed using ChatGPT.
+The python code was developed using ChatGPT.
 
 ## Features
 Fetches the widget from web and displays the calendar, and when offline, displays a local cached image.
